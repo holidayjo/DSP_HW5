@@ -1,0 +1,4 @@
+close all
+clear
+
+x = 1;
